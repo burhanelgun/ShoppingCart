@@ -1,5 +1,5 @@
 # ShoppingCart
-This project is developped with JavaSE-12 by using Eclipse IDE. JUnit 5 is used for unit testing.
+This project is developped with JavaSE-12 by using Eclipse IDE. JUnit 5 is used for unit testing. Javadoc is provided in [doc](doc).
 
 You can run the program with IDE or [executable JAR file](hw2Question1Program.jar).
 
