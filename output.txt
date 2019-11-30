@@ -1,0 +1,159 @@
+--------------- DRIVE 1 (Without Campaign - Without Coupon)---------------
+Category:Technology
+Title: Mouse, Price: 40.0, Category:Technology, Quantity:1
+
+Category:Education
+Title: Book, Price: 15.0, Category:Education, Quantity:2
+
+Category:Food
+Title: Apple, Price: 3.0, Category:Food, Quantity:1
+Title: Lemon, Price: 2.0, Category:Food, Quantity:1
+
+Total Price(Before discounts): 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+Total Discount               : 0.0 ( Campaign Discount:0.0 , Coupon Discount:0.0 )
+Total Price(After discounts) : 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+
+
+--------------- DRIVE 2 (With Campaign - Without Coupon)---------------
+Category:Technology
+Title: Mouse, Price: 40.0, Category:Technology, Quantity:1
+
+Category:Education
+Title: Book, Price: 15.0, Category:Education, Quantity:2
+
+Category:Food
+Title: Apple, Price: 3.0, Category:Food, Quantity:1
+Title: Lemon, Price: 2.0, Category:Food, Quantity:1
+
+Total Price(Before discounts): 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+Total Discount               : 6.0 ( Campaign Discount:6.0 , Coupon Discount:0.0 )
+Total Price(After discounts) : 121.99 ( Total Amount:69.0 , Delivery Cost:52.99 )
+
+
+--------------- DRIVE 3 (With Campaign - Without Coupon) ---------------
+Category:Technology
+Title: Mouse, Price: 40.0, Category:Technology, Quantity:1
+
+Category:Education
+Title: Book, Price: 15.0, Category:Education, Quantity:2
+
+Category:Food
+Title: Apple, Price: 3.0, Category:Food, Quantity:1
+Title: Lemon, Price: 2.0, Category:Food, Quantity:1
+
+Total Price(Before discounts): 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+Total Discount               : 30.0 ( Campaign Discount:30.0 , Coupon Discount:0.0 )
+Total Price(After discounts) : 97.99 ( Total Amount:45.0 , Delivery Cost:52.99 )
+
+
+--------------- DRIVE 4 (With Campaign - With Coupon) ---------------
+Category:Technology
+Title: Mouse, Price: 40.0, Category:Technology, Quantity:1
+
+Category:Education
+Title: Book, Price: 15.0, Category:Education, Quantity:2
+
+Category:Food
+Title: Apple, Price: 3.0, Category:Food, Quantity:1
+Title: Lemon, Price: 2.0, Category:Food, Quantity:1
+
+Total Price(Before discounts): 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+Total Discount               : 40.0 ( Campaign Discount:30.0 , Coupon Discount:10.0 )
+Total Price(After discounts) : 87.99 ( Total Amount:35.0 , Delivery Cost:52.99 )
+
+
+--------------- DRIVE 5 (With Campaign - With Coupon) ---------------
+Category:Technology
+Title: Mouse, Price: 40.0, Category:Technology, Quantity:1
+
+Category:Education
+Title: Book, Price: 15.0, Category:Education, Quantity:2
+
+Category:Food
+Title: Apple, Price: 3.0, Category:Food, Quantity:1
+Title: Lemon, Price: 2.0, Category:Food, Quantity:1
+
+Total Price(Before discounts): 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+Total Discount               : 39.0 ( Campaign Discount:30.0 , Coupon Discount:9.0 )
+Total Price(After discounts) : 88.99 ( Total Amount:36.0 , Delivery Cost:52.99 )
+
+
+--------------- DRIVE 6 (Without Campaign - With Coupon) ---------------
+Category:Technology
+Title: Mouse, Price: 40.0, Category:Technology, Quantity:1
+
+Category:Education
+Title: Book, Price: 15.0, Category:Education, Quantity:2
+
+Category:Food
+Title: Apple, Price: 3.0, Category:Food, Quantity:1
+Title: Lemon, Price: 2.0, Category:Food, Quantity:1
+
+Total Price(Before discounts): 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+Total Discount               : 15.0 ( Campaign Discount:0.0 , Coupon Discount:15.0 )
+Total Price(After discounts) : 112.99 ( Total Amount:60.0 , Delivery Cost:52.99 )
+
+
+--------------- DRIVE 7 (With Campaign - Without Coupon) ---------------
+Category:Technology
+Title: Mouse, Price: 40.0, Category:Technology, Quantity:1
+
+Category:Education
+Title: Book, Price: 15.0, Category:Education, Quantity:2
+
+Category:Food
+Title: Apple, Price: 3.0, Category:Food, Quantity:1
+Title: Lemon, Price: 2.0, Category:Food, Quantity:1
+
+Total Price(Before discounts): 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+Total Discount               : 2.5 ( Campaign Discount:2.5 , Coupon Discount:0.0 )
+Total Price(After discounts) : 125.49 ( Total Amount:72.5 , Delivery Cost:52.99 )
+
+
+--------------- DRIVE 8 (With Campaign - Without Coupon) ---------------
+Category:Technology
+Title: Mouse, Price: 40.0, Category:Technology, Quantity:1
+
+Category:Education
+Title: Book, Price: 15.0, Category:Education, Quantity:2
+
+Category:Food
+Title: Apple, Price: 3.0, Category:Food, Quantity:1
+Title: Lemon, Price: 2.0, Category:Food, Quantity:1
+
+Total Price(Before discounts): 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+Total Discount               : 3.0 ( Campaign Discount:3.0 , Coupon Discount:0.0 )
+Total Price(After discounts) : 124.99 ( Total Amount:72.0 , Delivery Cost:52.99 )
+
+
+--------------- DRIVE 9 (With Campaign - With Coupon) ---------------
+Category:Technology
+Title: Mouse, Price: 40.0, Category:Technology, Quantity:1
+
+Category:Education
+Title: Book, Price: 15.0, Category:Education, Quantity:2
+
+Category:Food
+Title: Apple, Price: 3.0, Category:Food, Quantity:1
+Title: Lemon, Price: 2.0, Category:Food, Quantity:1
+
+Total Price(Before discounts): 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+Total Discount               : 39.0 ( Campaign Discount:3.0 , Coupon Discount:36.0 )
+Total Price(After discounts) : 88.99 ( Total Amount:36.0 , Delivery Cost:52.99 )
+
+
+--------------- DRIVE 10 (Apply Campaign After Coupon) ---------------
+***Can not apply Campaign after the Coupon(Only Coupon was applied)***
+Category:Technology
+Title: Mouse, Price: 40.0, Category:Technology, Quantity:1
+
+Category:Education
+Title: Book, Price: 15.0, Category:Education, Quantity:2
+
+Category:Food
+Title: Apple, Price: 3.0, Category:Food, Quantity:1
+Title: Lemon, Price: 2.0, Category:Food, Quantity:1
+
+Total Price(Before discounts): 127.99 ( Total Amount:75.0 , Delivery Cost:52.99 )
+Total Discount               : 39.0 ( Campaign Discount:3.0 , Coupon Discount:36.0 )
+Total Price(After discounts) : 88.99 ( Total Amount:36.0 , Delivery Cost:52.99 )
